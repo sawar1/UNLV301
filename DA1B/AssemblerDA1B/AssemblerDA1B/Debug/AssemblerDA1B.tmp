@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\Debug\AssemblerDA1B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerDA1B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerDA1B.map</FILE>
+  <FILE>AssemblerDA1B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <FILL><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>18</LINE></FILL>
+  <RESETX><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>46</LINE></RESETX>
+  <CONTINUE><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>26</LINE></CONTINUE>
+  <DIVIDE><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>51</LINE></DIVIDE>
+  <DIVIDERET><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>29</LINE></DIVIDERET>
+  <FILLMORE><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>33</LINE></FILLMORE>
+  <DIVIDE2><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>78</LINE></DIVIDE2>
+  <DIVIDERET2><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>41</LINE></DIVIDERET2>
+  <END><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>105</LINE></END>
+  <L1><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>55</LINE></L1>
+  <NOTDIV><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>70</LINE></NOTDIV>
+  <L2><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>82</LINE></L2>
+  <NOTDIV2><FILE>C:\Users\Home\Desktop\DA1B\AssemblerDA1B\AssemblerDA1B\main.asm</FILE><LINE>97</LINE></NOTDIV2>
+ </LABELS>
+</ASSEMBLER_INFO>
