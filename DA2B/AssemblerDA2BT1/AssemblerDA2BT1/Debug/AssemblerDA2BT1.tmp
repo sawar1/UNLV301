@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\Debug\AssemblerDA2BT1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerDA2BT1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerDA2BT1.map</FILE>
+  <FILE>AssemblerDA2BT1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>15</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>29</LINE></EX0_ISR>
+  <HERE><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>28</LINE></HERE>
+  <YALED><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>34</LINE></YALED>
+  <D0><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>36</LINE></D0>
+  <D1><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>37</LINE></D1>
+  <D2><FILE>C:\Users\Home\Desktop\AssemblerDA2BT1\AssemblerDA2BT1\main.asm</FILE><LINE>38</LINE></D2>
+ </LABELS>
+</ASSEMBLER_INFO>
